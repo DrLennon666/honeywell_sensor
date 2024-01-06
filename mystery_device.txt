@@ -1,0 +1,3 @@
+Unknown device: 100000001101010001101101 
+
+Unknown status message: 10000100

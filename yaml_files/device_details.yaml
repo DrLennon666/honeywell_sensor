@@ -1,0 +1,11 @@
+'10100000': open
+'10000000': closed
+'00100000': right side open
+'00000000': right or left side closed
+'11100000': tamper warning
+'10001000': hello
+'00000100': hello
+'100001111001100110010001': front door
+'100001111110000101100010': back door
+'100001101000010011001101': garage door
+'100001110000100111011100': back window
